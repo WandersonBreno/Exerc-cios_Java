@@ -1,3 +1,5 @@
+         Lista de Exercícios Java
+
 1)Faça um Programa que mostre a mensagem "Hello Word" na tela.
 
 2)Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
@@ -20,9 +22,9 @@ C = 5 * ((F-32) / 9).
 10)Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
 
 11)Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-a) O produto do dobro do primeiro com metade do segundo .
-b) A soma do triplo do primeiro com o terceiro.
-c) O terceiro elevado ao cubo.
+  a) O produto do dobro do primeiro com metade do segundo .
+  b) A soma do triplo do primeiro com o terceiro.
+  c) O terceiro elevado ao cubo.
 
 12)Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
 
@@ -48,8 +50,8 @@ Obs.: Salário Bruto - Descontos = Salário Líquido.
 
 16)Faça um Programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
 Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
-a) Comprar apenas latas de 18 litros;
-b) Comprar apenas galões de 3,6 litros;
-c) Misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+  a) Comprar apenas latas de 18 litros;
+  b) Comprar apenas galões de 3,6 litros;
+  c) Misturar latas e galões, de forma que o desperdício de tinta seja menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
 
 17)Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
